@@ -430,20 +430,6 @@ useEffect(() => {
 
 ---
 
-## 📸 Screenshots
-
-### Desktop View
-
-![Desktop Hero](screenshots/desktop-hero.png)
-![Desktop About](screenshots/desktop-about.png)
-![Desktop Services](screenshots/desktop-services.png)
-
-### Mobile View
-
-![Mobile](screenshots/mobile-view.png)
-
----
-
 ## 🌐 Live Demo
 
 Visit the live website: [Belize Rural High School](https://your-domain.com)
@@ -567,4 +553,4 @@ Belize Rural High School is located in Double Head Cabbage, Belize District, Cen
 
 ---
 
-**Made with React ⚛️ | Powered by Vite ⚡ | Styled with Bootstrap 💅**
+**Made with React | Powered by Vite  | Styled with Bootstrap **
